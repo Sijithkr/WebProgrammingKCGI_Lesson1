@@ -2,8 +2,7 @@
 
 https://sijithkr.github.io/WebProgrammingKCGI_Lesson1/
 
-<html>
-<head>
+
 <div class="container">
    <h1>Sijith Ramakrishnan</h1>
    <h3>Personal Profile</h3>
@@ -36,7 +35,8 @@ https://sijithkr.github.io/WebProgrammingKCGI_Lesson1/
       </div>
    
    <h4>Education</h4>
-   <table style="width:100%"border="1px">
+   <table>
+         <table style="width:100%"border="1px">
   <tr>
     <th>Education</th>
     <th>School</th>
@@ -70,5 +70,4 @@ https://sijithkr.github.io/WebProgrammingKCGI_Lesson1/
    
 </div>
 
-</head>
-</html>
+
