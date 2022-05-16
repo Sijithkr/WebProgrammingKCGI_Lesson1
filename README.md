@@ -34,7 +34,7 @@ https://sijithkr.github.io/WebProgrammingKCGI_Lesson1/
             <li>Watching movies</li>
          </ul>
       </div>
-   </div>
+   
    <h4>Education</h4>
    <table style="width:100%"border="1px">
   <tr>
